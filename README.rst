@@ -23,4 +23,7 @@ Todo
 - twine
 - travis
 - cookiecutter
+- click
+- click-man
+- doc?
 
